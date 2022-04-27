@@ -15,7 +15,7 @@ public class AudioPlayer implements MediaPlayer {
         if ("mp3".equalsIgnoreCase(mediaType)) {
             System.out.println("AudioPlayer播放：" + filename + "." + mediaType);
         } else {
-            mediaAdapter = new MediaAdapter();
+            mediaAdapter = new MediaAdapter(mediaType);
             mediaAdapter.play(mediaType, filename);
         }
     }
