@@ -3,7 +3,7 @@ package com.linqibin.runoob;
 import com.linqibin.runoob.interfaces.MediaPlayer;
 
 /**
- *
+ * 适配器模式 属于结构型设计模式
  * @author lqb
  * @date 2022/4/27
  */
