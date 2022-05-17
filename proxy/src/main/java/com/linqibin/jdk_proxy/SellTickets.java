@@ -1,4 +1,4 @@
-package com.linqibin.staticproxy;
+package com.linqibin.jdk_proxy;
 
 /**
  * 代理模式中的抽象主题

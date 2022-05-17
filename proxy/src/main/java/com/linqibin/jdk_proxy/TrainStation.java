@@ -1,4 +1,4 @@
-package com.linqibin.staticproxy;
+package com.linqibin.jdk_proxy;
 
 /**
  * 火车站

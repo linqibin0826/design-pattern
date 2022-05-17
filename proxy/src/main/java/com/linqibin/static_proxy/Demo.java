@@ -1,4 +1,6 @@
-package com.linqibin.staticproxy;
+package com.linqibin.static_proxy;
+
+import com.linqibin.jdk_proxy.SellTickets;
 
 /**
  *

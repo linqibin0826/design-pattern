@@ -1,4 +1,7 @@
-package com.linqibin.staticproxy;
+package com.linqibin.static_proxy;
+
+import com.linqibin.jdk_proxy.SellTickets;
+import com.linqibin.jdk_proxy.TrainStation;
 
 /**
  * 代售点
