@@ -14,7 +14,7 @@ import java.util.Properties;
  */
 public class CoffeeFactory {
 
-    private static Map<String, Coffee> factory = new HashMap<>();
+    private static final Map<String, Coffee> factory = new HashMap<>();
 
     static {
         ClassLoader classLoader = ClassLoader.getSystemClassLoader();
