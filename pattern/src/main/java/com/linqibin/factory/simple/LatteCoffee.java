@@ -1,4 +1,4 @@
-package com.linqibin.factory.sinple;
+package com.linqibin.factory.simple;
 
 public class LatteCoffee extends Coffee {
     @Override

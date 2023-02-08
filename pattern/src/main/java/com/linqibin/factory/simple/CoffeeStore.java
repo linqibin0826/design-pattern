@@ -1,4 +1,4 @@
-package com.linqibin.factory.sinple;
+package com.linqibin.factory.simple;
 
 /**
  *
@@ -17,6 +17,5 @@ public class CoffeeStore {
         System.out.println(coffee.getName());
         coffee.addMilk();
         coffee.addSugar();
-
     }
 }
